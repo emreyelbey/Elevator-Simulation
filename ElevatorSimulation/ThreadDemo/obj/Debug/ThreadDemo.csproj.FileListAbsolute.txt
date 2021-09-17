@@ -1,0 +1,10 @@
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csprojAssemblyReference.cache
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.Form1.resources
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.Properties.Resources.resources
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.GenerateResource.cache
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.exe
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\bin\Debug\ThreadDemo.pdb
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.exe
+C:\Users\emre_\source\repos\ThreadDemo\ThreadDemo\obj\Debug\ThreadDemo.pdb
